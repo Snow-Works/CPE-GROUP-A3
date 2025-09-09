@@ -52,7 +52,7 @@ user_input = {
 # Convert to DataFrame
 input_df = pd.DataFrame([user_input])
 
-st.write("### Preview of your input")
+st.write("### Your Laptop Specifications")
 st.dataframe(input_df)
 
 # Prediction button
