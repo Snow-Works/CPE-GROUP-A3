@@ -1,4 +1,4 @@
-%%writefile streamlit_app.p
+
 import streamlit as st
 import joblib
 import pandas as pd
